@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![Laravel Dub](https://raw.githubusercontent.com/jeffersongoncalves/laravel-dub/master/art/jeffersongoncalves-laravel-dub.png)
+![Laravel Dub](https://raw.githubusercontent.com/jeffersongoncalves/laravel-dub/main/art/jeffersongoncalves-laravel-dub.png)
 
 </div>
 
